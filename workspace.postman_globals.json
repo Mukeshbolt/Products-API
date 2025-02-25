@@ -1,0 +1,15 @@
+{
+	"id": "ed34526f-5f44-4cbc-81c5-894c16e5a881",
+	"values": [
+		{
+			"key": "global_var",
+			"value": "https://fakestoreapi.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-02-22T05:57:48.987Z",
+	"_postman_exported_using": "Postman/11.33.5-250220-2335"
+}
